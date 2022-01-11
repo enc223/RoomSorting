@@ -1,0 +1,7 @@
+Office BC208 1 25 Luke Vincent
+Office PA308 1 40 Alice Boise
+Office PA252 2 36 Houria Oudghiri
+Lab BC101 38 67 25
+Lab PA100 47 120 40
+Lab NV200 60 80 45
+Lab PA110 65 150 45
